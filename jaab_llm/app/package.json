@@ -1,0 +1,34 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "sass-migrator": "sass-migrator"
+  },
+  "dependencies": {
+    "@carbon/icons-react": "^11.39.0",
+    "@carbon/react": "^1.73.0",
+    "@graphql-tools/utils": "^10.1.3",
+    "@vitejs/plugin-react": "^4.0.4",
+    "express": "^4.21.2",
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0",
+    "playwright": "^1.49.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^4.4.9",
+    "watzen": "^0.1.10",
+    "wxflows": "^0.1.1"
+  },
+  "devDependencies": {
+    "sass": "^1.66.1",
+    "sass-migrator": "^2.3.0"
+  },
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": ""
+}
