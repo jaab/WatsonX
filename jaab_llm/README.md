@@ -93,7 +93,7 @@ npm run dev
 ```
 
 ## Summary
-You’ve now successfully set up, deployed, and run a `wxflows` project. This setup provides a flexible environment to allowing you to further build and expand your app with `wxflows`.
+You’ve now successfully set up, deployed, and run a `wxflows` project. This setup provides a flexible environment to allowing you to further build and expand your app with `wxflows` you can add news LLM and Flows for testing, editing files App.jsx and wxflows.toml, feel free to editing this project.
 
 ## Contributing
 If you'd like to contribute to this project, please follow the standard GitHub workflow: fork the repository, create a new branch, make changes, and submit a pull request.
