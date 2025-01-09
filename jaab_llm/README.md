@@ -93,7 +93,7 @@ npm run dev
 ```
 
 ## Summary
-You’ve now successfully set up, deployed, and run a `wxflows` project. This setup provides a flexible environment to allowing you to further build and expand your app with `wxflows` you can add news LLM and Flows for testing, editing files App.jsx and wxflows.toml, feel free to editing this project.
+You’ve now successfully set up, deployed, and run a `wxflows` project. This setup provides a flexible environment to allowing you to further build and expand your app with `wxflows` you can add news LLM and Flows for testing, editing files App.jsx and wxflows.toml, feel free to editing this project. [you can see here others id models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-api-model-ids.html?utm_source=ibm_developer&utm_content=in_content_link&utm_id=tutorials_awb-using-different-llms-in-watsonx-ai-flows-engine&context=wx&audience=wdp)
 
 ## Contributing
 If you'd like to contribute to this project, please follow the standard GitHub workflow: fork the repository, create a new branch, make changes, and submit a pull request.
